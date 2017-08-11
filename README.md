@@ -53,7 +53,7 @@ Initial rendering problem
 
 ### KeyboardAvoidingScrollView
  - buggy
- - Does not handle inputs well
+ - Does not handle inputs at all
    - does not scroll to focused input
 
 
