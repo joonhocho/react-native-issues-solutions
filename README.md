@@ -46,7 +46,7 @@ Initial rendering problem
 
 ## Keyboard Avoiding ScrollView
 ### iOS
- - https://github.com/douglasjunior/react-native-keyboard-manager#install
+ - https://github.com/douglasjunior/react-native-keyboard-manager
  
 ### Android
  - android:windowSoftInputMode="adjustResize"
