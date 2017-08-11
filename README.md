@@ -51,7 +51,7 @@ Initial rendering problem
 ### Android
  - android:windowSoftInputMode="adjustResize"
 
-### KeyboardAvoidingScrollView
+### KeyboardAvoidingView
  - buggy
  - Does not handle inputs at all
    - does not scroll to focused input
